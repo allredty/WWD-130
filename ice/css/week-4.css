@@ -1,0 +1,57 @@
+:root {
+    --bg-color: pink;
+    --primary-font-color: black;
+    --secondary-font-color: white;
+}
+
+body {
+    background-color: var(--bg-color)
+}
+
+main {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+h1:hover{
+    color: var(--primary-font-color);
+
+}
+
+.author {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h1 {
+    color: var(--secondary-font-color);
+    text-align: center;
+}
+
+img {
+    max-width: 150px;
+
+}
+
+.picture{
+    text-align: center;
+}
+
+blockquote {
+    color: var(--secondary-font-color);
+    text-align: center;
+}
+
+ol {
+    font-weight: bold;
+}
+
+.huge-font {
+    font-size: 45px;
+}
+
+.end{
+    text-align: center;
+    font-size: 25px;
+}
