@@ -44,8 +44,6 @@ nav a:hover {
 
 
 footer{
-    display: grid;
-    columns: 200px auto 200px;
     background-color: #3897ca;
     color:black;
     padding: 25px 50px;
