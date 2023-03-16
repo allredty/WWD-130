@@ -124,139 +124,140 @@ main{
     margin-left: 300px;
 }
 
-.person{
+.scarlet{
     grid-column: 1/2;
     grid-row: 2/3;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 150px;
+    object-fit: cover;
 }
 
-.ned-title{
+.scarlet-title{
     grid-column: 1/2;
     grid-row: 2/3;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 195px;
+    margin-left: 190px;
 }
 
-.ned-text{
+.scarlet-text{
     grid-column: 1/2;
     grid-row: 2/3;
     font-size: large;
     margin-top: 375px;
-    margin-left: 175px;
+    margin-left: 180px;
 }
 
-.person2{
+.ned{
     grid-column: 2/3;
     grid-row: 2/3;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 15px;
 }
 
-.chris-title{
+.ned-title{
     grid-column: 2/3;
     grid-row: 2/3;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 60px;
+    margin-left: 46px;
 }
 
-.chris-text{
+.ned-text{
     grid-column: 2/3;
     grid-row: 2/3;
     font-size: large;
     margin-top: 375px;
-    margin-left: 40px;
+    margin-left: 50px;
 }
 
-.person3{
+.chris{
     grid-column: 3/4;
     grid-row: 2/3;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 25px;
 }
 
-.ricky-title{
+.chris-title{
     grid-column: 3/4;
     grid-row: 2/3;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 70px;
+    margin-left: 53px;
 }
 
-.ricky-text{
+.chris-text{
     grid-column: 3/4;
     grid-row: 2/3;
     font-size: large;
     margin-top: 375px;
-    margin-left: 70px;
+    margin-left: 60px;
 }
 
-.person4{
+.denver{
     grid-column: 1/2;
     grid-row: 3/4;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 150px;
 }
 
-.jase-title{
+.denver-title{
     grid-column: 1/2;
     grid-row: 3/4;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 210px;
+    margin-left: 186px;
 }
 
-.jase-text{
+.denver-text{
     grid-column: 1/2;
     grid-row: 3/4;
     font-size: large;
     margin-top: 375px;
-    margin-left: 210px;
+    margin-left: 186px;
 }
 
-.person5{
+.ricky{
     grid-column: 2/3;
     grid-row: 3/4;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 15px;
 }
 
-.jared-title{
+.ricky-title{
     grid-column: 2/3;
     grid-row: 3/4;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 75px;
+    margin-left: 21px;
 }
 
-.jared-text{
+.ricky-text{
     grid-column: 2/3;
     grid-row: 3/4;
     font-size: large;
@@ -264,55 +265,55 @@ main{
     margin-left: 57px;
 }
 
-.person6{
+.jase{
     grid-column: 3/4;
     grid-row: 3/4;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 25px;
 }
 
-.tyler-title{
+.jase-title{
     grid-column: 3/4;
     grid-row: 3/4;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 80px;
+    margin-left: 68px;
 }
 
-.tyler-text{
+.jase-text{
     grid-column: 3/4;
     grid-row: 3/4;
     font-size: large;
     margin-top: 375px;
-    margin-left: 30px;
+    margin-left: 55px;
 }
 
-.person7{
+.jared{
     grid-column: 1/2;
     grid-row: 4/5;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 150px;
 }
 
-.kurt-title{
+.jared-title{
     grid-column: 1/2;
     grid-row: 4/5;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 210px;
+    margin-left: 200px;
 }
 
-.kurt-text{
+.jared-text{
     grid-column: 1/2;
     grid-row: 4/5;
     font-size: large;
@@ -320,27 +321,27 @@ main{
     margin-left: 180px;
 }
 
-.person8{
+.tyler{
     grid-column: 2/3;
     grid-row: 4/5;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 15px;
 }
 
-.leslie-title{
+.tyler-title{
     grid-column: 2/3;
     grid-row: 4/5;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 80px;
+    margin-left: 66px;
 }
 
-.leslie-text{
+.tyler-text{
     grid-column: 2/3;
     grid-row: 4/5;
     font-size: large;
@@ -348,18 +349,18 @@ main{
     margin-left: 60px;
 }
 
-.person9{
+.kurt{
     grid-column: 3/4;
     grid-row: 4/5;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 25px;
 }
 
-.denver-title{
+.kurt-title{
     grid-column: 3/4;
     grid-row: 4/5;
     font-size: large;
@@ -368,26 +369,26 @@ main{
     margin-left: 75px;
 }
 
-.denver-text{
+.kurt-text{
     grid-column: 3/4;
     grid-row: 4/5;
     font-size: large;
     margin-top: 375px;
-    margin-left: 55px;
+    margin-left: 47px;
 }
 
-.person10{
+.leslie{
     grid-column: 1/2;
     grid-row: 5/6;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 150px;
 }
 
-.scarlet-title{
+.leslie-title{
     grid-column: 1/2;
     grid-row: 5/6;
     font-size: large;
@@ -396,7 +397,7 @@ main{
     margin-left: 200px;
 }
 
-.scarlet-text{
+.leslie-text{
     grid-column: 1/2;
     grid-row: 5/6;
     font-size: large;
@@ -404,59 +405,59 @@ main{
     margin-left: 180px;
 }
 
-.person11{
+.colby{
     grid-column: 2/3;
     grid-row: 5/6;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 15px;
 }
 
-.alexis-title{
+.colby-title{
     grid-column: 2/3;
     grid-row: 5/6;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 100px;
+    margin-left: 63px;
 }
-.alexis-text{
+.colby-text{
     grid-column: 2/3;
     grid-row: 5/6;
     font-size: large;
     margin-top: 375px;
-    margin-left: 75px;
+    margin-left: 48px;
 }
 
-.person12{
+.alexis{
     grid-column: 3/4;
     grid-row: 5/6;
     height: 200px;
-    width: 200px;
+    width: 175px;
     border: 10px solid black;
     border-radius: 10px;
     margin-top: 150px;
     margin-left: 25px;
 }
 
-.colby-title{
+.alexis-title{
     grid-column: 3/4;
     grid-row: 5/6;
     font-size: large;
     font-weight: bold;
     margin-top: 125px;
-    margin-left: 85px;
+    margin-left: 65px;
 }
 
-.colby-text{
+.alexis-text{
     grid-column: 3/4;
     grid-row: 5/6;
     font-size: large;
     margin-top: 375px;
-    margin-left: 65px;
+    margin-left: 55px;
 }
 
 
