@@ -1,5 +1,5 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap');
 
 
 html{
@@ -62,6 +62,7 @@ header{
 main{
     background-color: rgb(232, 227, 227);
     border-radius: 5px;
+    font-family: Josefin Sans, Helvetica, sans-serif;
 }
 
 .grid-container{
